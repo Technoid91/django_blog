@@ -2,9 +2,33 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="c781dbd5-8970-4aa5-a063-a2eec4b2486f" name="Default Changelist" comment="">
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/blog/templates/blog/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/blog/templates/blog/index.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/blog/urls.py" beforeDir="false" afterPath="$PROJECT_DIR$/blog/urls.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/blog/views.py" beforeDir="false" afterPath="$PROJECT_DIR$/blog/views.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/static/image/default.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/static/images/default.jpg" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/staticfiles/admin/js/vendor/jquery/jquery.js" beforeDir="false" afterPath="$PROJECT_DIR$/staticfiles/admin/js/vendor/jquery/jquery.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/staticfiles/summernote/lang/summernote-en-US.min.js" beforeDir="false" afterPath="$PROJECT_DIR$/staticfiles/summernote/lang/summernote-en-US.min.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/staticfiles/summernote/lang/summernote-es-EU.min.js" beforeDir="false" afterPath="$PROJECT_DIR$/staticfiles/summernote/lang/summernote-es-EU.min.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/staticfiles/summernote/lang/summernote-fa-IR.min.js" beforeDir="false" afterPath="$PROJECT_DIR$/staticfiles/summernote/lang/summernote-fa-IR.min.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/staticfiles/summernote/lang/summernote-fr-FR.min.js" beforeDir="false" afterPath="$PROJECT_DIR$/staticfiles/summernote/lang/summernote-fr-FR.min.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/staticfiles/summernote/lang/summernote-he-IL.min.js" beforeDir="false" afterPath="$PROJECT_DIR$/staticfiles/summernote/lang/summernote-he-IL.min.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/staticfiles/summernote/lang/summernote-hr-HR.min.js" beforeDir="false" afterPath="$PROJECT_DIR$/staticfiles/summernote/lang/summernote-hr-HR.min.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/staticfiles/summernote/lang/summernote-it-IT.min.js" beforeDir="false" afterPath="$PROJECT_DIR$/staticfiles/summernote/lang/summernote-it-IT.min.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/staticfiles/summernote/lang/summernote-ja-JP.min.js" beforeDir="false" afterPath="$PROJECT_DIR$/staticfiles/summernote/lang/summernote-ja-JP.min.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/staticfiles/summernote/lang/summernote-lt-LT.min.js" beforeDir="false" afterPath="$PROJECT_DIR$/staticfiles/summernote/lang/summernote-lt-LT.min.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/staticfiles/summernote/lang/summernote-lt-LV.min.js" beforeDir="false" afterPath="$PROJECT_DIR$/staticfiles/summernote/lang/summernote-lt-LV.min.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/staticfiles/summernote/lang/summernote-mn-MN.min.js" beforeDir="false" afterPath="$PROJECT_DIR$/staticfiles/summernote/lang/summernote-mn-MN.min.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/staticfiles/summernote/lang/summernote-nb-NO.min.js" beforeDir="false" afterPath="$PROJECT_DIR$/staticfiles/summernote/lang/summernote-nb-NO.min.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/staticfiles/summernote/lang/summernote-nl-NL.min.js" beforeDir="false" afterPath="$PROJECT_DIR$/staticfiles/summernote/lang/summernote-nl-NL.min.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/staticfiles/summernote/lang/summernote-sl-SI.min.js" beforeDir="false" afterPath="$PROJECT_DIR$/staticfiles/summernote/lang/summernote-sl-SI.min.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/staticfiles/summernote/lang/summernote-sr-RS-Latin.min.js" beforeDir="false" afterPath="$PROJECT_DIR$/staticfiles/summernote/lang/summernote-sr-RS-Latin.min.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/staticfiles/summernote/lang/summernote-sr-RS.min.js" beforeDir="false" afterPath="$PROJECT_DIR$/staticfiles/summernote/lang/summernote-sr-RS.min.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/staticfiles/summernote/lang/summernote-sv-SE.min.js" beforeDir="false" afterPath="$PROJECT_DIR$/staticfiles/summernote/lang/summernote-sv-SE.min.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/staticfiles/summernote/lang/summernote-vi-VN.min.js" beforeDir="false" afterPath="$PROJECT_DIR$/staticfiles/summernote/lang/summernote-vi-VN.min.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/staticfiles/summernote/lang/summernote-zh-TW.min.js" beforeDir="false" afterPath="$PROJECT_DIR$/staticfiles/summernote/lang/summernote-zh-TW.min.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/staticfiles/summernote/summernote-bs4.min.js" beforeDir="false" afterPath="$PROJECT_DIR$/staticfiles/summernote/summernote-bs4.min.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/staticfiles/summernote/summernote-bs5.min.js" beforeDir="false" afterPath="$PROJECT_DIR$/staticfiles/summernote/summernote-bs5.min.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/staticfiles/summernote/summernote-lite.min.js" beforeDir="false" afterPath="$PROJECT_DIR$/staticfiles/summernote/summernote-lite.min.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/staticfiles/summernote/summernote.min.js" beforeDir="false" afterPath="$PROJECT_DIR$/staticfiles/summernote/summernote.min.js" afterDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
@@ -65,7 +89,7 @@
         <entry file="file://$PROJECT_DIR$/blog/templates/blog/index.html">
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="188">
-              <caret line="20" column="69" selection-start-line="20" selection-start-column="69" selection-end-line="20" selection-end-column="69" />
+              <caret line="20" column="49" selection-start-line="20" selection-start-column="49" selection-end-line="20" selection-end-column="49" />
               <folding>
                 <element signature="e#1632#1639#0" expanded="true" />
                 <element signature="e#1553#1560#0" expanded="true" />
@@ -86,8 +110,8 @@
       <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/blog/templates/blog/post_detail.html">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="105">
-              <caret line="7" column="48" selection-start-line="7" selection-start-column="48" selection-end-line="7" selection-end-column="48" />
+            <state relative-caret-position="165">
+              <caret line="11" column="18" selection-start-line="11" selection-start-column="18" selection-end-line="11" selection-end-column="18" />
             </state>
           </provider>
         </entry>
@@ -114,10 +138,10 @@
         <option value="$PROJECT_DIR$/runtime.txt" />
         <option value="$PROJECT_DIR$/static/js/script.js" />
         <option value="$PROJECT_DIR$/templates/base.html" />
+        <option value="$PROJECT_DIR$/blog/templates/blog/post_detail.html" />
         <option value="$PROJECT_DIR$/blog/urls.py" />
         <option value="$PROJECT_DIR$/blog/templates/blog/index.html" />
         <option value="$PROJECT_DIR$/blog/views.py" />
-        <option value="$PROJECT_DIR$/blog/templates/blog/post_detail.html" />
         <option value="$PROJECT_DIR$/codestar/settings.py" />
       </list>
     </option>
@@ -144,24 +168,6 @@
             <path>
               <item name="django_blog" type="b2602c69:ProjectViewProjectNode" />
               <item name="django_blog" type="462c0819:PsiDirectoryNode" />
-              <item name="blog" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="django_blog" type="b2602c69:ProjectViewProjectNode" />
-              <item name="django_blog" type="462c0819:PsiDirectoryNode" />
-              <item name="blog" type="462c0819:PsiDirectoryNode" />
-              <item name="templates" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="django_blog" type="b2602c69:ProjectViewProjectNode" />
-              <item name="django_blog" type="462c0819:PsiDirectoryNode" />
-              <item name="blog" type="462c0819:PsiDirectoryNode" />
-              <item name="templates" type="462c0819:PsiDirectoryNode" />
-              <item name="blog" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="django_blog" type="b2602c69:ProjectViewProjectNode" />
-              <item name="django_blog" type="462c0819:PsiDirectoryNode" />
               <item name="static" type="462c0819:PsiDirectoryNode" />
             </path>
             <path>
@@ -169,6 +175,12 @@
               <item name="django_blog" type="462c0819:PsiDirectoryNode" />
               <item name="static" type="462c0819:PsiDirectoryNode" />
               <item name="css" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="django_blog" type="b2602c69:ProjectViewProjectNode" />
+              <item name="django_blog" type="462c0819:PsiDirectoryNode" />
+              <item name="static" type="462c0819:PsiDirectoryNode" />
+              <item name="images" type="462c0819:PsiDirectoryNode" />
             </path>
           </expand>
           <select />
@@ -219,7 +231,7 @@
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="23736000" />
+    <option name="totallyTimeSpent" value="24246000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="0" y="0" width="1366" height="768" extended-state="0" />
@@ -235,7 +247,7 @@
       <window_info anchor="bottom" id="Python Console" order="4" />
       <window_info anchor="bottom" id="Docker" order="5" show_stripe_button="false" />
       <window_info anchor="bottom" id="Message" order="6" />
-      <window_info anchor="bottom" id="Find" order="7" />
+      <window_info anchor="bottom" id="Find" order="7" weight="0.3295129" />
       <window_info anchor="bottom" id="Run" order="8" />
       <window_info anchor="bottom" id="Debug" order="9" weight="0.4" />
       <window_info anchor="bottom" id="Cvs" order="10" weight="0.25" />
@@ -393,16 +405,6 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/blog/urls.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="90">
-          <caret line="6" column="64" selection-start-line="6" selection-start-column="64" selection-end-line="6" selection-end-column="64" />
-          <folding>
-            <element signature="e#0#19#0" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/codestar/urls.py">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="270">
@@ -413,10 +415,20 @@
         </state>
       </provider>
     </entry>
+    <entry file="file://$PROJECT_DIR$/blog/urls.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="90">
+          <caret line="6" column="64" selection-start-line="6" selection-start-column="64" selection-end-line="6" selection-end-column="64" />
+          <folding>
+            <element signature="e#0#19#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
     <entry file="file://$PROJECT_DIR$/blog/templates/blog/index.html">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="188">
-          <caret line="20" column="69" selection-start-line="20" selection-start-column="69" selection-end-line="20" selection-end-column="69" />
+          <caret line="20" column="49" selection-start-line="20" selection-start-column="49" selection-end-line="20" selection-end-column="49" />
           <folding>
             <element signature="e#1632#1639#0" expanded="true" />
             <element signature="e#1553#1560#0" expanded="true" />
@@ -433,8 +445,8 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/blog/templates/blog/post_detail.html">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="105">
-          <caret line="7" column="48" selection-start-line="7" selection-start-column="48" selection-end-line="7" selection-end-column="48" />
+        <state relative-caret-position="165">
+          <caret line="11" column="18" selection-start-line="11" selection-start-column="18" selection-end-line="11" selection-end-column="18" />
         </state>
       </provider>
     </entry>
